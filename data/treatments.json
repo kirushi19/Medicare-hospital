@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TRT_20260227170305",
+        "patient_id": "PAT_20260227170016",
+        "doctor_id": "DOC_20260227170221",
+        "diagnosis": "fever",
+        "prescription": "dajsbc",
+        "notes": "habsdsjcaj",
+        "cost": 2300.0,
+        "date": "2026-02-27",
+        "time": "17:03:05"
+    }
+]

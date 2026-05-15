@@ -1,0 +1,84 @@
+[
+    {
+        "id": "BIL_20260227170305",
+        "patient_id": "PAT_20260227170016",
+        "items": [
+            {
+                "description": "Treatment TRT_20260227170305",
+                "quantity": 1,
+                "unit_price": 2300.0,
+                "total": 2300.0
+            }
+        ],
+        "total_amount": 2300.0,
+        "paid_amount": 2300.0,
+        "status": "Paid",
+        "created_date": "2026-02-27 17:03:05"
+    },
+    {
+        "id": "BIL_20260228152921",
+        "patient_id": "PAT_20260228151505",
+        "items": [
+            {
+                "description": "fever",
+                "quantity": 2.0,
+                "unit_price": 200.0,
+                "total": 400.0
+            }
+        ],
+        "total_amount": 400.0,
+        "paid_amount": 0,
+        "status": "Unpaid",
+        "created_date": "2026-02-28 15:29:21"
+    },
+    {
+        "id": "BIL_20260228154117",
+        "patient_id": "PAT_20260228151505",
+        "items": [
+            {
+                "description": "Consultation - Dr. dr kirushiyan (DOC_20260228154032)",
+                "quantity": 1,
+                "unit_price": 1000.0,
+                "total": 1000.0
+            },
+            {
+                "description": "Room Charges",
+                "quantity": 1,
+                "unit_price": 500.0,
+                "total": 500.0
+            },
+            {
+                "description": "Other Treatment Fees",
+                "quantity": 1,
+                "unit_price": 200.0,
+                "total": 200.0
+            },
+            {
+                "description": "tablet",
+                "quantity": 1.0,
+                "unit_price": 300.0,
+                "total": 300.0
+            }
+        ],
+        "total_amount": 2000.0,
+        "paid_amount": 2000.0,
+        "status": "Paid",
+        "created_date": "2026-02-28 15:41:17"
+    },
+    {
+        "id": "BIL_20260301102015",
+        "patient_id": "PAT_20260228151505",
+        "items": [
+            {
+                "description": "Consultation - Dr. dr kirushiyan (DOC_20260228154032)",
+                "quantity": 1,
+                "unit_price": 1000.0,
+                "total": 1000.0
+            }
+        ],
+        "total_amount": 1000.0,
+        "paid_amount": 0,
+        "status": "Unpaid",
+        "created_date": "2026-03-01 10:20:15"
+    }
+]
